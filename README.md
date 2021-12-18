@@ -24,4 +24,6 @@ It should return
 > 10 + 3 ^ (1 + 1)
 > evaluation = 19
 ```
-### Future 
+### Future works
+* Add user defined functions
+* Control flow
